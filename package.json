@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Test Renaud HENRY",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Renaud HENRY",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
